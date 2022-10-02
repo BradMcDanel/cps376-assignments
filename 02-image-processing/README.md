@@ -30,7 +30,7 @@ make
 ./upsample ../data/mt-mitchell-nc.png ../data/upsample.png 4
 ./blur ../data/mt-mitchell-nc.png ../data/blur.png 4 15 
 ```
-Note that neither of these executables actually do very much - that is your job!
+Note that none of these executables actually do very much - that is your job!
 
 ### Next Steps
 * Look at examples in the cps376-lecture-code as a starting point.
